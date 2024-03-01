@@ -1,0 +1,127 @@
+
+[
+    {
+        "nombre": "Marvel",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1280px-Marvel_Logo.svg.png",
+        "personajes": [
+            {
+                "id": 5678,
+                "nombre": "Peter Parker",
+                "anioCreacion": 1962,
+                "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Andrew_Garfield_as_Spider-Man.jpg/220px-Andrew_Garfield_as_Spider-Man.jpg",
+                "descripcion": "El estudiante y fotógrafo que se convierte en Spiderman."
+            },
+            {
+                "id": 9101,
+                "nombre": "Mary Jane Watson",
+                "anioCreacion": 1965,
+                "imagen": "https://i.ebayimg.com/images/g/0O0AAOSwiV9jSQ~X/s-l1200.webp",
+                "descripcion": "La interés amoroso de Peter Parker."
+            },
+            {
+                "id": 1121,
+                "nombre": "Norman Osborn",
+                "anioCreacion": 1964,
+                "imagen": "https://i.pinimg.com/originals/8b/9e/9d/8b9e9df85aa1a7d79266d66c523291d4.jpg",
+                "descripcion": "Villano que se convierte en el Green Goblin."
+            },
+            {
+                "id": 3141,
+                "nombre": "Aunt May",
+                "anioCreacion": 1962,
+                "imagen": "https://i.pinimg.com/474x/65/a6/b4/65a6b4d506c5a49f76b35f120a85a403.jpg",
+                "descripcion": "La tía amorosa de Peter Parker."
+            },
+            {
+                "id": 5926,
+                "nombre": "Doctor Octopus",
+                "anioCreacion": 1963,
+                "imagen": "https://upload.wikimedia.org/wikipedia/en/b/bc/Dr._Octopus_Marvel.jpg",
+                "descripcion": "Científico convertido en un villano con tentáculos mecánicos."
+            },
+            {
+                "id": 8475,
+                "nombre": "Challa",
+                "anioCreacion": 1966,
+                "imagen": "https://upload.wikimedia.org/wikipedia/en/1/1a/Chadwick_Boseman_as_T%27Challa.jpg",
+                "descripcion": "Rey de Wakanda y Black Panther."
+            },
+            {
+                "id": 2036,
+                "nombre": "Shuri",
+                "anioCreacion": 2005,
+                "imagen": "https://upload.wikimedia.org/wikipedia/en/3/34/Letitia_Wright_as_Shuri_in_Black_Panther_poster.jpeg",
+                "descripcion": "Princesa de Wakanda y hermana de T'Challa."
+            },
+            {
+                "id": 4567,
+                "nombre": "Erik Killmonger",
+                "anioCreacion": 1973,
+                "imagen": "https://fatcatcollectibles.in/cdn/shop/files/e6b921d88769463f9ba477072ea2f915xl.jpg?v=1697796452&width=1200",
+                "descripcion": "Villano con una conexión complicada con Wakanda."
+            }
+        ]
+    },
+    {
+        "nombre": "DC",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/2048px-DC_Comics_logo.svg.png",
+        "personajes": [
+            {
+                "id": 2345,
+                "nombre": "Batman",
+                "anioCreacion": 1939,
+                "imagen": "https://static.posters.cz/image/750/posters/the-batman-downpour-i123456.jpg",
+                "descripcion": "El Caballero Oscuro y protector de Gotham City."
+            },
+            {
+                "id": 6789,
+                "nombre": "Wonder Woman",
+                "anioCreacion": 1941,
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkauYeH3cok6bdl9jHECeJZaNc1qdWQm0jUg&usqp=CAU",
+                "descripcion": "Princesa amazona y embajadora de la paz."
+            },
+            {
+                "id": 1011,
+                "nombre": "The Joker",
+                "anioCreacion": 1940,
+                "imagen": "https://cdn11.bigcommerce.com/s-ydriczk/products/87779/images/89512/The-Joker-DC-Comics-Suicide-Squad-Lifesize-Cardboard-Cutout-available-now-at-starstills__54382.1461598843.450.659.jpg?c=2",
+                "descripcion": "El archienemigo de Batman, conocido por su locura."
+            },
+            {
+                "id": 1213,
+                "nombre": "Superman",
+                "anioCreacion": 1938,
+                "imagen": "https://upload.wikimedia.org/wikipedia/en/d/d6/Superman_Man_of_Steel.jpg",
+                "descripcion": "El Hombre de Acero, defensor de la verdad y la justicia."
+            },
+            {
+                "id": 1415,
+                "nombre": "Harley Quinn",
+                "anioCreacion": 1992,
+                "imagen": "https://media.vogue.fr/photos/6100112b9d91fef117cf8b97/1:1/w_4133,h_4133,c_limit/076_CHLRNB_003622.jpg",
+                "descripcion": "Antigua psiquiatra transformada en cómplice del Joker."
+            },
+            {
+                "id": 1617,
+                "nombre": "Aquaman",
+                "anioCreacion": 1941,
+                "imagen": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_.jpg",
+                "descripcion": "Rey de Atlantis con habilidades acuáticas."
+            },
+            {
+                    "id": 1819,
+                    "nombre": "The Flash",
+                    "anioCreacion": 1940,
+                    "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9d4a564f-746a-4c09-80f9-fac15b21c406/dfy920p-988b2b14-ba7c-4199-b8fb-96a1f5346f73.jpg/v1/fill/w_1920,h_3361,q_75,strp/the_flash_wallpaper__3__by_imagineaiart99_dfy920p-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlkNGE1NjRmLTc0NmEtNGMwOS04MGY5LWZhYzE1YjIxYzQwNlwvZGZ5OTIwcC05ODhiMmIxNC1iYTdjLTQxOTktYjhmYi05NmExZjUzNDZmNzMuanBnIiwiaGVpZ2h0IjoiPD0zMzYxIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvOWQ0YTU2NGYtNzQ2YS00YzA5LTgwZjktZmFjMTViMjFjNDA2XC9pbWFnaW5lYWlhcnQ5OS00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.AAISv7f4-vX2MI-Rx-IOmeq-Ay7UNYpGoh0QJmCjp2c",
+                    "descripcion": "Héroe con velocidad sobrehumana."
+                },
+                {
+                    "id": 2021,
+                    "nombre": "Catwoman",
+                    "anioCreacion": 1940,
+                    "imagen":  "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1ae3e171-df44-4c17-b1d7-f6b4df8fc8e1/dgcb6xq-341dfd45-7acf-40bd-bc56-df6bef9ed58f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFhZTNlMTcxLWRmNDQtNGMxNy1iMWQ3LWY2YjRkZjhmYzhlMVwvZGdjYjZ4cS0zNDFkZmQ0NS03YWNmLTQwYmQtYmM1Ni1kZjZiZWY5ZWQ1OGYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Wtpwnyz-amqwLAH00zsSUM_TP4fZUse8eH3k_G3NK34",
+                    "descripcion": "Ladrona habilidosa y aliada ocasional de Batman."
+                }
+        ]
+    }
+]
